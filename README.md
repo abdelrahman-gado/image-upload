@@ -1,2 +1,2 @@
 # image-upload
-simple image upload project with expressjs and multerjs
+Simple image upload project with expressjs and multerjs
